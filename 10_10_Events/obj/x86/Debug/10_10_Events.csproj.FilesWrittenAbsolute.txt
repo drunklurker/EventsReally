@@ -1,0 +1,5 @@
+/home/fwiffo/Documents/programming/progs/Csharp/10_10_Events/10_10_Events/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/fwiffo/Documents/programming/progs/Csharp/10_10_Events/10_10_Events/bin/Debug/10_10_Events.exe.mdb
+/home/fwiffo/Documents/programming/progs/Csharp/10_10_Events/10_10_Events/bin/Debug/10_10_Events.exe
+/home/fwiffo/Documents/programming/progs/Csharp/10_10_Events/10_10_Events/obj/x86/Debug/10_10_Events.exe
+/home/fwiffo/Documents/programming/progs/Csharp/10_10_Events/10_10_Events/obj/x86/Debug/10_10_Events.exe.mdb
